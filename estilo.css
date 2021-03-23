@@ -1,0 +1,26 @@
+.bnt{
+	font-family: arial;
+	font-size:9px;
+	text-transform: uppercase;
+	font-weight:700;
+	border:none;
+	padding:10px;
+	cursor: pointer;
+	display:inline-block;
+	text-decoration: none;
+}
+.btn-preto{
+	background:black;
+	color:#fff;
+	box-shado:0 5px 0 #4F4F4F;
+}
+.btn-preto:houver{
+	background:black;
+	color:#fff;
+	box-shado:0 5px 0 #4F4F4F;
+}
+.btn-preto:active{
+	position:relative;
+	top:5px;
+	box-shadow:none;
+}
